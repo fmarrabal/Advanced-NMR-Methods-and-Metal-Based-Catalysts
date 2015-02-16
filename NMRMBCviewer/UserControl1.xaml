@@ -1,0 +1,26 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:h="http://helix-toolkit.org/wpf" x:Class="NMRMBCviewer.UserControl1"
+            xmlns:local="clr-namespace:NMRMBCviewer"
+             mc:Ignorable="d" Height="295.932" Width="371.186">
+    <Grid>
+        <DockPanel>
+            <h:HelixViewport3D x:Name="viewport" ShowCoordinateSystem="True" ZoomExtentsWhenLoaded="True">
+                <h:HelixViewport3D.Camera>
+                    <!-- HelixViewport3D.ZoomExtentsWhenLoaded will figure out the position of the Camera -->
+                    <PerspectiveCamera LookDirection="10,10,10" UpDirection="0,0,1"/>
+                </h:HelixViewport3D.Camera>
+
+                <!-- Lights -->
+                <ModelVisual3D Content="{Binding Lights}"/>
+
+                <!-- The plot visual (surface, axes and labels) -->
+                <local:ScatterPlotVisual3D Points="{Binding Data}" Values="{Binding Values}" SurfaceBrush="{Binding SurfaceBrush}"/>
+               
+            </h:HelixViewport3D>   
+        </DockPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,39 @@
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\bin\Debug\NMRMBCviewer.exe.config
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\bin\Debug\NMRMBCviewer.exe
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\bin\Debug\NMRMBCviewer.pdb
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\bin\Debug\HelixToolkit.dll
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\bin\Debug\HelixToolkit.Wpf.dll
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\bin\Debug\NMRMBC.dll
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\UserControl1.g.cs
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\UserControl2.g.cs
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\NMRMBCviewer_MarkupCompile.cache
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\NMRMBCviewer_MarkupCompile.lref
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\UserControl1.baml
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\UserControl2.baml
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\NMRMBCviewer.g.resources
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\NMRMBCviewer.aboutus.resources
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\NMRMBCviewer.Form1.resources
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\NMRMBCviewer.Properties.Resources.resources
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\NMRMBCviewer.csproj.GenerateResource.Cache
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\NMRMBCviewer.exe
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\NMRMBCviewer.pdb
+E:\owncloud\Software en desarrollo\NMRMBCviewer\NMRMBCviewer\obj\Debug\NMRMBCviewer.csprojResolveAssemblyReference.cache
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\bin\Debug\NMRMBCviewer.exe.config
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\bin\Debug\NMRMBCviewer.exe
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\bin\Debug\NMRMBCviewer.pdb
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\NMRMBCviewer.csprojResolveAssemblyReference.cache
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\UserControl1.g.cs
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\UserControl2.g.cs
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\NMRMBCviewer_MarkupCompile.cache
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\NMRMBCviewer_MarkupCompile.lref
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\UserControl1.baml
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\UserControl2.baml
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\NMRMBCviewer.g.resources
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\NMRMBCviewer.aboutus.resources
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\NMRMBCviewer.Form1.resources
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\NMRMBCviewer.Properties.Resources.resources
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\NMRMBCviewer.csproj.GenerateResource.Cache
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\NMRMBCviewer.exe
+E:\owncloud\GitHub\Advanced-NMR-Methods-and-Metal-Based-Catalysts\NMRMBCviewer\obj\Debug\NMRMBCviewer.pdb
